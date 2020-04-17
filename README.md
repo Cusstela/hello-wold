@@ -1,4 +1,2 @@
 # hello-wold
-Hi everybody!
-
-Cusstela here :)
+Apenas outro repositório
